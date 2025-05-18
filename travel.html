@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Travel Recommendation</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    h2 { color: #0066cc; }
+    table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      padding: 8px;
+    }
+    th { background-color: #f2f2f2; }
+    select, button {
+      padding: 8px;
+      margin: 10px 0;
+    }
+    #loading {
+      display: none;
+      color: #ff6600;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>🌍 Travel Recommendation System</h2>
+
+  <label for="place">Select a place:</label>
+  <select id="place">
+    <option value="">-- Loading places... --</option>
+  </select>
+
+  <button onclick="getRecommendations()">Get Recommendations</button>
+  <div id="loading">Loading recommendations...</div>
+
+  <h3>Top 5 Recommended Places:</h3>
+  <table id="resultTable">
+    <thead>
+      <tr>
+        <th>Recommended Place</th>
+        <th>Category</th>
+        <th>Age</th>
+        <th>Distance (km)</th>
+        <th>Rating</th>
+        <th>Mode</th>
+        <th>Suggested Transport</th>
+        <th>Relevant (≥ 4.0)</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    window.onload = function() {
+      fetch("http://127.0.0.1:5000/places")
+        .then(response => response.json())
+        .then(data => {
+          const dropdown = document.getElementById("place");
+          dropdown.innerHTML = '<option value="">-- Select a place --</option>';
+          data.forEach(place => {
+            const option = document.createElement("option");
+            option.value = place.Place_Name;
+            option.textContent = place.Place_Name;
+            dropdown.appendChild(option);
+          });
+        })
+        .catch(err => {
+          alert("Failed to load places. Make sure your Flask app is running.");
+          console.error(err);
+        });
+    };
+
+    function getRecommendations() {
+      const selectedPlace = document.getElementById("place").value;
+      if (!selectedPlace) {
+        alert("Please select a place.");
+        return;
+      }
+
+      const loadingIndicator = document.getElementById("loading");
+      loadingIndicator.style.display = "block";
+
+      fetch(`http://127.0.0.1:5000/recommend?place=${encodeURIComponent(selectedPlace)}`)
+        .then(response => response.json())
+        .then(data => {
+          const tbody = document.querySelector("#resultTable tbody");
+          tbody.innerHTML = "";
+
+          if (data.error) {
+            alert(data.error);
+            loadingIndicator.style.display = "none";
+            return;
+          }
+
+          data.forEach(item => {
+            const row = document.createElement("tr");
+            row.innerHTML = `
+              <td>${item["Recommended Place"]}</td>
+              <td>${item.Category}</td>
+              <td>${item.Age}</td>
+              <td>${item.Distance_km.toFixed(2)}</td>
+              <td>${item.Rating}</td>
+              <td>${item.Mode_of_Transport}</td>
+              <td>${item.Suggested_Transport}</td>
+              <td>${item["Relevant (Rating ≥ 4.0)"] ? "Yes" : "No"}</td>
+            `;
+            tbody.appendChild(row);
+          });
+        })
+        .catch(err => {
+          alert("Failed to fetch recommendations.");
+          console.error(err);
+        })
+        .finally(() => {
+          loadingIndicator.style.display = "none";
+        });
+    }
+  </script>
+
+</body>
+</html>
