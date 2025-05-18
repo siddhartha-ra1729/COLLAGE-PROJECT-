@@ -1,0 +1,171 @@
+Place_Id,Source,Destination,Distance(km)
+1,Amtala,Bishnupur,2.2
+2,Bishnupur,Khoriberia,4.6
+3,Khoriberia,Vasa Mandir,1.5
+4,Vasa mandir,Pailan,5.4
+5,Pailan,Joka,5
+6,Joka,Thakurpukur,2.3
+7,Thakurpukur,Sakherbazar,2.8
+8,Sakherbazar,Behala Chowrasta,0.8
+9,Behala Chowrasta,Behala 14 no.,2.4
+10,Behala 14 no.,Taratala,2.9
+11,Taratala,Mominpore,5.2
+12,Mominpore,Ekbalpur,1
+13,Ekbalpur,Khiderpore,1.4
+14,Khiderpore,Hastings,1.6
+15,Hastings,Princep Ghat,0.95
+16,Princep Ghat,Babu Ghat,1.7
+17,Babu Ghat,Esplanade,1.3
+18,Esplanade,Curjon Park,1
+19,B.B.D. Bag,Barabazar,1.6
+20,Barabazar,Howrah,2.4
+21,Curjon Park,Dalhousie,1.3
+22,Dalhousie,GPO,0.5
+23,GPO,B.B.D. Bag,0.8
+24,Ekbalpur,Alipore Zoo,1.1
+25,Alipore Zoo,P.G/P.T.S.,2
+26,P.G/P.T.S.,Exide,1.6
+27,Exide,Maidan,5.5
+28,Maidan,Park Street,6
+29,Park Street,Esplanade,3.1
+30,Taratala,Brace Bridge,1.9
+31,Brace Bridge,BNR Office Colony,3.6
+32,BNR Office Colony,Khiderpore,2.3
+33,Hastings,Fort William,2.1
+34,Fort William,CTC Tent,6.7
+35,CTC Tent,Curjon Park,0.75
+36,Taratala,New Alipore,4.4
+37,New Alipore,Prince Anwar Shah Road,3
+38,Prince Anwar Shah Road,Jadavpur,2.2
+39,Jadavpur,South City Mall,1.5
+40,South City Mall,Kalikapur,4.5
+41,Kalikapur,Ruby,2.4
+42,Ruby,Science City,3.9
+43,Science City,Sector v,7.9
+44,Sector v,College More,0.18
+45,College More,New Town,5.4
+46,New Town,Narkel Bagan,1.7
+47,Narkel Bagan,ECO Park,2.1
+48,ECO Park,Airport(Gate No. 1),7.2
+49,Airport(Gate No. 1),Madhyamgram (Chowmatha),7.5
+50,Madhyamgram (Chowmatha),Dac Banglow,3.8
+51,Dac Banglow,Barasat,1.7
+52,New Alipore,Rashbihari,2.1
+53,Rashbihari,Deshopriyo Park,2
+54,Deshopriyo Park,Goria Hat,1.3
+55,Goria Hat,Kasba,2.2
+56,Kasba,Ruby,2.3
+57,Science City,Chingrighata,4
+58,Chingrighata,Beleghata Building More,0.9
+59,Beleghata Building More,Mani Square,3
+60,Mani Square,Ultadanga,2.3
+61,Ultadanga,Lake Town,3.2
+62,Lake Town,Kestopur,5.1
+63,Kestopur,Baguiati,3
+64,Baguiati,Airport,5
+65,Airport,Durganagar,4.3
+66,Durganagar,Dunlop,5.1
+67,Dunlop,Alambazar,2.9
+68,Alambazar,Tea Board,2.6
+69,Tea Board,Poddar court,0.8
+70,Poddar court,Central Avn. Crossing,0.85
+71,Central Avn. Crossing,Bowbazar,2.3
+72,Bowbazar,Medical College,0.9
+73,Medical College,Catcutta University,0.6
+74,Catcutta University,College Street,1.6
+75,College Street,MG Road Crossing,0.85
+76,MG Road Crossing,Surya Sen Street,14.9
+77,Surya Sen Street,Jagat Cinema,0.5
+78,Jagat Cinema,Sealdah,0.85
+79,Sealdah,Raja Bazar Tram Depot,1.9
+80,Raja Bazar Tram Depot,Maniktala ,1.8
+81,Maniktala ,Baghmari Bazar,1.2
+82,Baghmari Bazar,College Square,3.4
+83,New Alipore,Tollygunge Phari,2
+84,Tollygunge Phari,Rabindra Sarobar,4.3
+85,Rabindra Sarobar,Rashbihari,3.8
+86,Rashbihari,Deshopriyopark,2
+87,Deshopriyopark,Golpark,1.2
+88,Golpark,Dhakuria,2.2
+89,Dhakuria,Jadavpur 8b,2.1
+90,Jadavpur 8b,Palbazar,1.6
+91,Palbazar,Jadavpur,1.5
+92,Jadavpur,Garia Hat,2.6
+93,New Town,Technopolis,4.6
+94,Technopolis,College More ,3.1
+95,College More ,Nicco Park,2
+96,Nicco Park,Sector v,5.8
+97,Sector v,SDF,1.9
+98,SDF,Chingrighata,3.7
+99,Chingrighata,Beliaghata,1.8
+100,Beliaghata,CIT More,1
+101,CIT More,Sealdah Court,3.3
+102,Sealdah Court,Sealdah Station,0.55
+103,Sealdah Station,Moulai,3.2
+104,Moulai,Esplanade,1.5
+105,Ruby,Tagore Park,1.3
+106,Tagore Park,VIP Bazar,1.1
+107,VIP Bazar,Science City,2.3
+108,Beleghata Building More,Amri Hospital,3.7
+109,Amri Hospital,GD Island,1.9
+110,GD Island,Susrut Eye Hospital,1.2
+111,Susrut Eye Hospital,Techno India,2.2
+112,Techno India,Swasthya Bhawan,0.9
+113,Swasthya Bhawan,SDF,2
+114,SDF,College More,0.85
+115,College More,Wipro Office,0.65
+116,Wipro Office,Tank No.10,2
+117,Tank No.10,Bidhannagar,1.6
+118,Bidhannagar,Beliaghata,2.5
+119,B.B.D. Bag,Esplanade,2.4
+120,Esplanade,Mayo Road,1.1
+121,Mayo Road,Fort William ,3.8
+122,Fort William ,Hastings,2.3
+123,Hastings,Khiderpore,2.2
+124,Khiderpore,Ekbalpur,0.5
+125,Ekbalpur,Mominpore,1
+126,Mominpore,Taratala,4.4
+127,Taratala,Brace Bridge,1.9
+128,Brace Bridge,Jinjira Bazar,0.75
+129,Jinjira Bazar,Sarkar Pool,2.9
+130,Sarkar Pool,Gopalpur,2.2
+131,Gopalpur,Rampur Quarter,3.4
+132,Rampur Quarter,Mollar Gate,1.5
+133,Mollar Gate,Chakmir Bazar,1.8
+134,Chakmir Bazar,Old Dak Ghar,2.1
+135,Old Dak Ghar,Mahestala,0.23
+136,Mahestala,Dak Ghar,0.09
+137,Dak Ghar,Chandannagar ,1.8
+138,Chandannagar ,Memanpur,1.8
+139,Memanpur,Bata More,0.9
+140,Bata More,Nungi More,0.65
+141,Nungi More,Eden City,2
+142,Patuli,Hiland Park,2
+143,Hiland Park,Ajay Nagar,1.1
+144,Ajay Nagar,Mukundopur,1.8
+145,Mukundopur,Kalikapur,2.3
+146,Kalikapur,Ruby,2.4
+147,Rashbihari,Kalighat,2.8
+148,Kalighat,Hazra,1.1
+149,Hazra,Bhowanipur,1.5
+150,Bhowanipur,Elgin Road,0.85
+151,Elgin Road,Exide,1.6
+152,Exide,Rabindra Sadan ,1.8
+153,Rabindra Sadan ,Maidan,3.3
+154,Park Street ,Mayo Road,0.9
+155,Philips More ,SDF ,9
+156,Wipro Office,Salt Lake Karunamoyee,4.5
+157,Salt Lake Karunamoyee,Tank no.9,4.2
+158,Tank no.9,Tank no.8,1.2
+159,Tank no.8,Kwality Bus Stop,2.7
+160,Kwality Bus Stop,Ultodanga Station,3.5
+161,Ultodanga Station,Gouribari,2.2
+162,Gouribari,Khanna,0.5
+163,Khanna,Hatibagan,1.5
+164,Hatibagan,Sovabazar,0.8
+165,Sovabazar,BK Pal(Rabindra Sarani),0.4
+166,BK Pal(Rabindra Sarani),Ahiritola,1.2
+167,Ahiritola,Jora Bagan,0.85
+168,Jora Bagan,Mala para,0.21
+169,Mala para,Satyanarayan Park,1.3
+170,Satyanarayan Park,Barabazar,0.5

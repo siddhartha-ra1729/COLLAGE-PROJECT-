@@ -1,0 +1,29 @@
+output checking for api:
+
+http://127.0.0.1:5000/distance?source= Amtala &destination=Bishnupur
+http://127.0.0.1:5000/distance?source=<source_place>&destination=<destination_place>
+
+http://127.0.0.1:5000/distance?source=Exide&destination=Maidan  
+http://127.0.0.1:5000/distance?source=GPO&destination=B.B.D. Bag
+                                                                  distance checking between two places
+
+
+http://127.0.0.1:5000/place/1
+http://127.0.0.1:5000/place/2
+http://127.0.0.1:5000/places
+http://127.0.0.1:5000/ratings
+
+Amtala
+Bishnupur
+
+
+                                 St. Paul's Cathedral Kolkata
+
+for recommendation checking
+
+http://127.0.0.1:5000/recommend?place=St. Paul's Cathedral Kolkata
+http://127.0.0.1:5000/recommend?place=Nicco Park
+http://127.0.0.1:5000/recommend?place=Victoria Memorial
+http://127.0.0.1:5000/recommend?place=Alipore Zoo
+http://127.0.0.1:5000/recommend?place=Mullick Ghat Flower Market
+http://127.0.0.1:5000/recommend?place=Kalighat Temple

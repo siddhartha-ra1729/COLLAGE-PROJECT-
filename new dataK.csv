@@ -1,0 +1,171 @@
+﻿Place_Id,Place_name,Age,Category,Road_condition,Weather_Condition,Description,Mode_of_Transport,Latitude,Longitude
+1,Victoria Memorial,All Ages,Historical Monument,Good,Haze,"A grand white marble monument dedicated to Queen Victoria, featuring Indo-Saracenic architecture and housing a museum with artifacts from British India.","Bus, Taxi",22.54498,88.34243
+2,Quest Mall,All Ages,"Shopping, Entertainment",Good,Haze,"A modern, upscale shopping mall with various brands, restaurants, and entertainment options.","Bus, Taxi, Metro",22.53915,88.36603
+3,Fort William Kolkata,All Ages,Historical Site,Good,Cloudy,A historic British fort with a museum showcasing military history and a serene park for picnics.,"Bus, Taxi",22.55895,88.33773
+4,Shalimar Station,All Ages,Transportation Hub (Railway Station),Good,Hazr,"A major railway station in Howrah, Kolkata, serving local and long-distance trains.","Train, Bus, taxi",22.55591,88.31503
+5,Belur Math,All Ages,Religious/Spiritual,Good,Haze,"The headquarters of the Ramakrishna Mission, a spiritual organization founded by Swami Vivekananda.","Bus, Taxi, Ferry",22.63282,88.35642
+6,Howrah Bridge,All Ages,Architectural Landmark,Good,Cloudy,"A majestic suspension bridge connecting Kolkata to Howrah, offering stunning views of the Hooghly River.","Bus, Taxi, Walking",22.58532,88.34681
+7,Birla Planetarium,"Children, Teens, Families",Science/Education,Good,Clear,A popular science museum with interactive exhibits and shows on astronomy and space science.,"Bus, Taxi",22.54548,88.34732
+8,Indian Museum,"Children, Teens, Families",Museum,Average,Clear,"One of the oldest museums in India, housing a vast collection of artifacts from various cultures and periods.","Bus, Taxi, Metro",22.55108,88.35109
+9,Marin House,"Teens, Families","Historical Mansion, Museum, Art Gallery",Good,Cloudy,"A 19th-century mansion with marble interiors, sculptures, and a collection of artworks. Photography restrictions may apply.","Bus, Taxi, Auto-rickshaw",22.55162,88.32678
+10,Marble Palace Mansion,All Ages,Historical Mansion,Average,Haze,"A beautiful 19th-century mansion showcasing European and Indian architectural styles, with a collection of art and antiques.","Bus, Taxi",22.58251,88.36023
+11,Mother House,All Ages,Religious/Spiritual,Average,Haze,"The headquarters of the Missionaries of Charity, founded by Mother Teresa, offering a glimpse into the organization's work","Bus, Taxi, Walking",22.55327,88.36447
+12,Science City Kolkata,"Children, Teens, Families",Science/Education,Good,Clear,"A sprawling science museum with interactive exhibits, rides, and shows on various scientific concepts.","Bus, Taxi",22.54162,88.39697
+13,St. Paul's Cathedral Kolkata,"Children, Teens, Families",Religious/Architectural,Good,Cloudy,A historic Anglican cathedral with beautiful architecture and stained glass windows.,"Bus, Taxi, Walking",22.54451,88.34673
+14,Tea Board,All Ages,"Government Office, Tea Industry",Good,Cloudy,"The regional office of the Tea Board India, responsible for regulating and promoting the tea industry in India.","Bus, Taxi, Metro, Auto-rickshaw",22.575,88.3516
+15,Tajpur,18+ (for adult only),Beach Destination,Average,Clear,"A serene beach town with pristine beaches, perfect for swimming, sunbathing, and enjoying seafood.","Bus, Car",22.53859,87.97996
+16,Birla Mandir Kolkata,All Ages,Religious/Spiritual,Good,Clear,"A grand Hindu temple dedicated to Lord Shiva, offering a peaceful atmosphere and stunning architecture.","Bus, Taxi",22.53063,88.36502
+17,Eden Gardens,All Ages,Sports/Entertainment,Good,Clear,"A world-famous cricket stadium, home to the Kolkata Knight Riders and hosting international matches.","Bus, Taxi, Walking",22.56482,88.34333
+18,Jorasanko Thakur Bari,All Ages,Historical Museum,Average,Clear,"The ancestral home of Rabindranath Tagore, a Nobel Prize-winning poet and philosopher, offering a glimpse into his life and work","Bus, Taxi",22.58515,88.35918
+19,Birla Industrial & Technological Museum,"Children, Teens, Families",Museum/Technology,Good,Clear,"A museum showcasing the history of Indian industry and technology, with interactive exhibits and demonstrations.","Bus, Taxi",22.53511,88.36369
+20,Rabindra Sarovar,All Ages,Park/Recreation,Average,Clear,"A large artificial lake surrounded by lush greenery, perfect for boating, picnics, and jogging.","Bus, Taxi, Walking",22.51228,88.3605
+21,Kalighat Temple,All Ages,Religious/Spiritual,Average,Clear,"A popular Hindu temple dedicated to the goddess Kali, known for its vibrant atmosphere and religious significance","Bus, Taxi, Walking",22.52055,88.34188
+22,Shobhabajar Rajbari,All Ages,Historical Site,Average,Clear,A historic palace showcasing Bengali architecture and housing a museum with artifacts and paintings.,"Bus, Taxi",22.59623,88.36719
+23,Botanical Garden in Kolkata,"Children, Teens, Families",Nature/Park,Average,Clear,"A sprawling botanical garden with a diverse collection of plants, flowers, and trees.","Bus, Taxi",22.56207,88.28943
+24,Nakhoda Mosque,All Ages,Religious/Spiritual,Average,Clear,"One of the largest mosques in Kolkata, known for its intricate architecture and peaceful atmosphere.","Bus, Taxi",22.5777,88.35624
+25,Alipore Zoo,"Children, Teens, Families",Zoo/Family,Good,Cloudy,"A popular zoo with a variety of animals, including tigers, lions, elephants, and birds.","Bus, Taxi",22.53716,88.33162
+26,Sabarna Sangrahashala,All Ages,Museum/Cultural,Average,Clear,"A museum showcasing the history and culture of the Sabarna Roy Chowdhury family, with artifacts and paintings.","Bus, Taxi",22.48047,88.31147
+27,Eco Tourism Park,All Ages,Nature/Park,Good,Clear,"A sprawling park with a variety of ecosystems, perfect for nature walks, birdwatching, and enjoying the outdoors.","Bus, Taxi",22.60058,88.47058
+28,Calcutta Jain Temple,All Ages,Religious/Spiritual,Average,Clear,A peaceful Jain temple with intricate carvings and a serene atmosphere.,"Bus, Taxi",22.5329,88.3511
+29,Nicco Park,"Children, Teens, Families",Amusement Park,Good,Haze,A popular amusement park with a variety of rides and attractions for families and children.,"Bus, Taxi",22.57145,88.42151
+30,Prinsep Ghat,All Ages,Scenic Spot,Good,Clear,"A historic ghat along the Hooghly River, offering stunning views of the river and the city skyline","Bus, Taxi, Ferry",22.55919,88.33266
+31,Aquatica,"Children, Teens, Families",Water Park,Average,Haze,"A water park with a variety of slides, pools, and attractions for water lovers.","Bus, Taxi",22.56282,88.46522
+32,Park Street,"Teens, Families",Entertainment/Shopping,Good,Cloudy,"A bustling street with a variety of shops, restaurants, and bars, offering a vibrant nightlife.","Bus, Taxi, Metro",22.48626,88.35591
+33,Chowringhee,18+ (for adult only),Commercial/Shopping,Average,Clear,"A main thoroughfare in Kolkata, known for its colonial-era buildings and shopping options.","Bus, Taxi",22.53857,88.34469
+34,ISKCON Kolkata,All Ages,Religious/Spiritual,Good,Clear,A popular Hare Krishna temple with a serene atmosphere and cultural programs,"Bus, Taxi",22.5439,88.35365
+35,South Park Street Cemetery,"Adults, History Buffs",Historical Site,Average,Clear,"A historic cemetery with the graves of many famous personalities, including Mother Teresa.","Bus, Taxi",22.54673,88.36018
+36,Netaji Bhawan,All Ages,Historical place,Average,Cloudy,"The museum showcases Bose's life, letters, and photographs, as well as exhibits on the Indian National Army","Bus, Taxi",22.53881,88.35078
+37,St John's Church,All Ages,Religious/Architectural,Good,Clear,A historic Anglican church with beautiful architecture and stained glass windows.,"Bus, Taxi",22.56974,88.37093
+38,Barrackpore,All Ages,Historical Town,Average,Haze,A historic town with a military cantonment and a serene park and where it's famous for their biriyani.,"Train, Bus",22.76139,88.37143
+39,Sabarna Roy Chowdhury Sangrahashala,All Ages,Museum,Good,Cloudy,"The museum houses rare documents, books, and journals from the 18th and 19th centuries","Bus,Taxi",22.48136,88.31143
+40,Nehru Children's Museum,"Children, Teens, Families",Museum,Average,Cloudy,A heaven of dolls and figurines.,"Bus, Taxi",22.54322,88.34708
+41,The RBI Museum,All Ages,Museum,Average,Clear,The RBI Museum in Kolkata is a hidden gem for anyone curious about the history of money and India's financial journey.,"Bus, Car",22.80136,88.36192
+42,Smaranika Tram Museum,All Ages,Museum,Average,Cloudy,"Smaranika Tram Museum, situated in the heart of Kolkata at Esplanade, offers a nostalgic journey into the city's rich tram heritag","Bus, Car",22.56625,88.34964
+43,Maulana Azad Museum,All Ages,Museum,Average,Clear,"It showcases a range of personal items and prestigious awards, such as the ""Bharat Ratna,"" bestowed upon him","Bus, Taxi",22.53466,88.35625
+44,Maidan,All Ages,Park/Recreation,Average,Haze,"A vast open space used for various activities, including sports, picnics, and cultural events.","Bus, Walking",22.5509,88.33913
+45,Central Park,All Ages,Park/Recreation,Good,Haze,"A well-maintained park with lush greenery, perfect for relaxation and recreation.","Bus, Taxi",22.59045,88.41478
+46,Millenium Park,"Children, Teens, Families",Park/Recreation,Good,Haze,"A modern park with a variety of attractions, including a musical fountain and a children's play area.","Bus, Taxi",22.57302,88.34459
+47,Deshapriya Park,All Ages,Park/Recreation,Good,Clear,"A popular park with a variety of trees, flowers, and a lake, perfect for picnics and relaxation","Bus, Taxi",22.51879,88.35345
+48,Safari Park,"Children, Families",Zoo/Family,Good,Clear,"A zoo with a safari drive-through experience, allowing visitors to observe animals in their natural habitat.","Bus, Taxi",22.51282,88.359
+49,Mohor Kunja,All Ages,Park/Recreation,Good,Haze,"A serene park with a lake and a variety of trees, perfect for picnics and boating.","Bus, Taxi",22.544,88.34503
+50,Elliot Park,"Teens, Families",Park/Recreation,Average,Haze,"A well-maintained park with a variety of trees, flowers, and a playground, perfect for families and children.","Bus, Taxi, Walking",22.54831,88.34805
+51,Gitanjali Sports Complex,All Ages,Sports,Good,Cloudy,"A sports complex with a variety of facilities, including a swimming pool, tennis courts, and a football field.","Bus, Taxi",22.52241,88.39489
+52,Kishore Bharati Krirangan,All Ages,Sports,Good,Haze,"A sports complex with a variety of facilities, including a cricket ground, football field, and basketball court.","Bus, Taxi",22.49484,88.39493
+53,Salt Lake Stadium,All Ages,Sports,Average,Haze,"One of the largest stadiums in India, hosting international football matches and other events.","Bus, Taxi",22.56921,88.40898
+54,Rabindra Sarobar Stadium,All Ages,Sports,Average,Clear,"A stadium with a variety of sports facilities, including a football field, cricket ground, and tennis courts.","Bus, Taxi",22.51218,88.35222
+55,Mohunbagan Stadium,All Ages,Sports,Good,Haze,"A historic football stadium, home to the Mohun Bagan football club.","Bus, Taxi",22.56232,88.34233
+56,Netaji Indoor Stadium,All Ages,Sports,Average,Haze,An indoor stadium for sports and cultural events.,"Bus, Taxi",22.56628,88.3416
+57,Barasat Stadium,All Ages,Sports,Good,Haze,"A football stadium, home to the Barasat football club.","Bus, Taxi",22.71778,88.47852
+58,East Bengal Ground,All Ages,Sports,Average,Cloudy,"A football stadium, home to the East Bengal football club.","Bus, Taxi",22.5598,88.3437
+59,Nandan,All Ages,A cultural hub of Kolkata,Good,Haze,Nandan is a prominent government-sponsored film and cultural center in Kolkata,"Bus, Taxi",22.54273,88.34547
+60,Nalban Boating Park,All Ages,Recreation/Boating,Good,Rainy,A park with a lake for boating and picnics.,"Bus, Taxi",22.56869,88.43073
+61,Snow Park,"Children, Families",Amusement Park,Good,Clear,"A theme park with snow-themed attractions, perfect for a fun-filled day out.","Bus, Taxi",22.57983,88.45981
+62,Wet-O-Wild,"Children, Families",Water Park,Good,Haze,"A water park with a variety of slides, pools, and attractions for water lovers.","Bus, Taxi",22.57223,88.42261
+63,Genesis Art Gallery,"Teens, Families",Art/Culture,Average,Clear,A gallery showcasing contemporary Indian art.,"Bus, Taxi",22.54905,88.35255
+64,Galerie 88,"Teens, Families",Art/Culture,Good,Haze,A gallery showcasing contemporary Indian and international art.,"Bus, Taxi",22.5448,88.35517
+65,Experimenter Art Gallery,"Teens, Families",Art/Culture,Good,Clear,A gallery showcasing contemporary Indian art.,"Bus, Taxi",22.52918,88.37103
+66,Masters Collection Art Gallery,"Teens, Families",Art/Culture,Good,Haze,A gallery showcasing a collection of modern and contemporary Indian art.,"Bus, Taxi",22.54079,88.35272
+67,Chitrakoot Art Gallery,"Teens, Families",Art/Culture,Good,Haze,A gallery showcasing contemporary Indian art.,"Bus, Taxi",22.52685,88.36575
+68,Akar Prakar Gallery,"Teens, Families",Art/Culture,Average,Clear,A gallery showcasing contemporary Indian art.,"Bus, Taxi",22.51815,88.36161
+69,Aakriti Art Gallery,"Teens, Families",Art/Culture,Average,Clear,A gallery showcasing contemporary Indian art.,"Bus, Taxi",22.54766,88.35536
+70,Chemould Art Gallery,"Teens, Families",Art/Culture,Good,Clear,A gallery showcasing contemporary Indian and international art,"Bus, Taxi",22.55377,88.35175
+71,Janus Art Gallery,"Teens, Families",Art/Culture,Good,Haze,A gallery showcasing contemporary Indian art.,"Bus, Taxi",22.51549,88.30488
+72,Harrington Street Arts Centre,"Teens, Families",Art/Culture,Average,Haze,"An arts center hosting exhibitions, performances, and workshops.","Bus, Taxi",22.5472,88.35192
+73,CIMA Gallery Pvt Ltd,All Ages,Art/Culture,Good,Haze,A gallery showcasing contemporary Indian art.,"Bus, Taxi",22.53182,88.36453
+74,Magen David Synagogue,All Ages,Religious/Spiritual,Good,Haze,"A historic synagogue, one of the oldest in India","Bus, Taxi",22.57782,88.35177
+75,Beth El Synagogue,All Ages,Religious/Spiritual,Good,Haze,A synagogue with a beautiful interior and a peaceful atmosphere.,"Bus, Taxi",22.57602,88.35216
+76,Neveh Shalome Synagogue,All Ages,Religious/Spiritual,Good,Haze,A synagogue with a modern design and a vibrant community.,"Bus, Taxi",22.57816,88.35203
+77,Dakshineswar Kali Mandir,All Ages,Religious/Spiritual,Average,Haze,"A famous Hindu temple dedicated to the goddess Kali, with stunning architecture and a serene atmosphere.","Bus, Taxi, Ferry",22.65518,88.35783
+78,Ramkrishnapur Ghat,All Ages,Scenic Spot,Average,Haze,"A ghat along the Hooghly River, offering beautiful views and a peaceful atmosphere.","Bus, Taxi, Ferry",22.57204,88.33567
+79,Kolkata Police Museum,All Ages,Historical Site,Good,Cloudy,This museum is showcasing the history and heritage of the Kolkata police force,"Bus, Taxi",22.5838,88.3736
+80,Muktangan,All Ages,Cultural,Average,Cloudy,An open-air museum showcasing traditional Indian crafts and architecture.,"Bus, Taxi",22.5161,88.34611
+81,Gariahat Market,"Teens, Families",Market/Shopping,Average,Haze,"A bustling market with a variety of shops selling clothes, jewelry, and other items.","Bus, Taxi",22.52038,88.36634
+82,Kolkata Port Trust,All Ages,Industrial/Commercial,Average,Haze,"A major port in India, handling a variety of cargo.","Bus, Taxi",22.58145,88.34582
+83,Gurusaday Museum,"Children, Families",traditional Bengal folk arts,Average,Clear,"This museum showcases traditional Bengal folk arts, including terracotta panels, kantha (folk quilt work), and hand-painted scrolls from the late 19th century.","Bus,Taxi",22.45951,88.30274
+84,Metcalfe Hall,All Ages,Architectural Landmark,Average,Clear,"An architectural gem reflecting the British colonial era, now housing the Asiatic Society's library and rare manuscripts.","Bus,Taxi",22.57189,88.34469
+85,Mullick Ghat Flower Market,All Ages,Flower markets,Good,Clear,"One of Asia's largest flower markets, it's a vibrant spot for photography enthusiasts and offers a unique sensory experience.","Bus,Taxi",22.58316,88.34861
+86,College Street (Boi Para),All Ages,Book market,Good,Haze,"Known as the largest secondhand book market in the world, it's a haven for bibliophiles and also houses the iconic Indian Coffee House.","Bus,Taxi",22.57647,88.36424
+87,College Square,All Ages,Book market Park Area,Good,Clear,The downtown College Square area is known for its lively student scene around the University of Calcutta,"Bus,Taxi",22.57512,88.3633
+88,Nahoum and Sons Bakery,All Ages,Jewish bakery,Good,Clear,"Established in 1902, this Jewish bakery in New Market is famous for its rich plum cakes and other confectioneries.","Bus,Taxi",22.56034,88.35291
+89,Nipponzan Myohoji Buddhist Temple,All Ages,Japanese Buddhist temple,Average,Clear,A serene Japanese Buddhist temple offering a peaceful retreat from the city's hustle and bustle.,"Bus,Taxi",22.51097,88.36645
+90,Chinatown (Tiretta Bazaar),All Ages,Chinese heritage,Good,Clear,Explore Kolkata's Chinese heritage with authentic Chinese breakfast stalls and temples.,"Bus,Taxi",22.57502,88.35581
+91,Park Street's Iconic Eateries,All Ages,Legendary restaurants,Average,Haze,"Beyond its vibrant nightlife, Park Street is home to legendary restaurants like Peter Cat and Mocambo, offering a blend of continental and Indian cuisines.","Bus,Taxi",22.55422,88.35143
+92,Alipore Jail Museum,All Ages,Historical place,Good,Haze,"Once a colonial prison, it's now a museum showcasing India's freedom struggle and the lives of the prisoners. ","Bus,Taxi",22.52444,88.33868
+93,Chintamoni Kar Bird Sanctuary,All Ages,Sanctuary,Good,Haze,"A haven for bird watchers and nature enthusiasts, this sanctuary is home to a diverse range of bird species, butterflies, and flora","Bus,Taxi",22.42957,88.40057
+94,Boat Museum,All Ages,Boat museum,Good,Haze,"India's only boat museum, showcasing 46 wooden replicas of traditional Bengali boats, highlighting the region's rich maritime heritage.","Bus,Taxi",22.582,88.391
+95,Lal Dighi,All Ages,Man-made water tank,Good,Haze,"A historic man-made water tank in the heart of Kolkata, surrounded by significant colonial-era buildings, offering a tranquil spot amidst the bustling city.","Bus,Taxi",22.57266,88.34868
+96,Kumartuli,All Ages,Traditional potters' quarter,Good,Haze,"A traditional potters' quarter where artisans craft intricate clay idols, especially during the Durga Puja season.","Bus,Taxi",22.60186,88.3609
+97,Rail Museum,All Ages,Historical place,Good,Clear,This is focused on history of railway in and around Calcutta region,"Bus,Taxi",22.5782,88.3399
+98,Ahuja Museum for Arts,All Ages,Art/Culture,Good,Clear,A very beautiful place hidden away in the heart of the city,"Bus,Taxi",22.5551,88.3451
+99,Sovabazar Rajbari,All Ages,Historic palace,Average,Haze,A historic palace known for its grand Durga Puja celebrations.,"Bus,Taxi,Metro",22.5963,88.3674
+100,Sri Mahalakshmi Temple,All Ages,"Temple, Religious Site",Good,Haze,"The architecture of the temple is so beautiful, the place is so calm,clean,well organised and divine","Bus,Taxi,Auto",22.5432,88.3255
+101,Raja Rammohan Roy Memorial Museum,All Ages,Museum,Average,Haze,A museum dedicated to the social reformer Raja Rammohan Roy.,"Bus,Taxi",22.5791,88.3489
+102,Pareshnath Jain Temple,All Ages,Jain temple,Good,Haze,A beautiful Jain temple complex with intricate artwork and serene surroundings.,"Bus,Taxi",22.5916,88.3778
+103,Baranagar Math,All Ages,Spiritual site,Good,Haze, A lesser-known spiritual site linked to the early days of the Ramakrishna Mission.,"Bus,Taxi",22.6319,88.3674
+104,Ratan Babu Ghat,All Ages,Riverside ghat,Good,Haze,A peaceful riverside ghat in North Kolkata.,"Bus,Taxi",22.6309,88.3653
+105,Cossipore Gun & Shell Factory Museum,All Ages,Historic palace,Good,Haze,Showcasing historic arms and ammunition from the colonial era.,"Bus,Taxi",22.6161,88.3712
+106,Shree Sachiyay Mata ji Mandir,All Ages,"Temple, Religious Site",Good,Haze,"Ecstatic Place of serenity, contemplation and reflection","Bus,Taxi,Auto",22.5418,88.3578
+107,Salt Lake City Center (Bidhannagar),All Ages,Beautiful views,Average,Haze,"A planned township known for its parks, lakes, and IT hubs.","Bus,Taxi,Metro",22.58844,88.40825
+108,Chinese Kali Temple,All Ages,Religious Temple,Average,Haze,Beautiful Kali temple in the heart of china town,"Bus,Taxi,Metro",22.5534,88.3946
+109,Ecospace Business Park,All Ages,A modern commercial hub,Average,Haze,"A modern commercial hub with dining, open-air activities, and a serene environment.","Bus,Taxi",22.5858,88.49
+110,Barasat Krishnamati Park,All Ages,Beautiful views,Average,Haze,A lesser-known park offering scenic beauty and a peaceful environment.,"Bus,Taxi",22.7261,88.4749
+111,Kestopur Rabindra Tirtha,All Ages, A cultural center ,Average,Haze," A cultural center dedicated to Rabindranath Tagore, hosting exhibitions and performances.","Bus,Taxi,Train",22.5791,88.4735
+112,Baghbazar Ghat,All Ages,A serene riverside,Average,Clear,A serene riverside spot offering beautiful views of the Hooghly River and ferry rides.,"Bus,Taxi",22.60521,88.36485
+113,Cossipore Udyanbati,All Ages,Spiritual site,Good,Haze,A spiritual site where Sri Ramakrishna spent his last days.,"Bus,Taxi,Ferry",22.6257,88.3723
+114,Vivekananda Setu,All Ages,A historic bridge,Good,Cloudy,"A historic bridge connecting Kolkata with Howrah, offering great views of the river.","Bus,Taxi",22.6531,88.354
+115,Currency Building,All Ages,Economic Histry,Good,Cloudy,"it's a symbol of the city's colonial legacy, architectural grandeur, and economic history.","Bus,Taxi",22.5791,88.3482
+116,South City Mall,All Ages,Largest shopping malls,Average,Clear,"One of the largest shopping malls in Kolkata, offering a variety of brands, restaurants, and entertainment options.","Bus,Taxi,Ferry",22.5017,88.3615
+117,Tollygunge Golf Club,18+ (for adult only),Oldest golf clubs,Average,Haze,"One of the oldest golf clubs in India, offering a lush green escape in the city.","Bus,Taxi",22.4954,88.3436
+118,State Archaeological Museum,All Ages,archaeological history,Average,Haze,"Showcasing ancient artifacts, sculptures, and Bengal’s rich archaeological history.","Bus,Taxi,Metro",22.49965,88.31792
+119,National Library,All Ages,The largest library,Good,Haze,"The largest library in India, located in Belvedere Estate, filled with rare books and manuscripts.","Bus,Taxi",22.5331,88.3336
+120,Biswa Bangla Gate,All Ages,A modern landmark,Good,Haze,A modern landmark offering a skywalk with panoramic views of New Town.,"Bus,Taxi,Metro",22.5787,88.4718
+121,Sundarbans National Park,All Ages,The world's largest mangrove forest,Good,Clear,"The world's largest mangrove forest, home to the Royal Bengal Tiger and diverse wildlife.","Bus,Taxi",21.8842,88.8854
+122,Alipore Zoological Garden,All Ages,The oldest zoo,Good,Haze,"One of the oldest zoos in India, home to exotic wildlife.","Bus,Taxi,Train",22.537,88.3317
+123,Kolkata Race Course,All Ages,Horse racing venue,Average,Haze,A famous horse racing venue dating back to the British era.,"Bus,Taxi,Metro",22.5443,88.3373
+124,Achipur Chinese Temple,All Ages,A historic Chinese temple,Average,Clear,"A historic Chinese temple dedicated to Tong Achu, an early Chinese settler.","Bus,Taxi,Metro",22.4509,88.1291
+125,Falta River Side,All Ages,Riverside,Average,Haze,A beautiful riverside retreat along the Hooghly River.,"Bus,Taxi,Train",22.29352,88.10276
+126,Diamond Harbour River Side,All Ages,A scenic getaway,Average,Cloudy,"A scenic getaway by the river, ideal for a short trip.","Bus,Taxi,Train",22.192,88.18485
+127,Raichak river side,All Ages,Riverside views,Good,Cloudy,Known for its luxurious resorts and riverside views.,"Bus,Taxi,Train",22.20946,88.11742
+128,Diamond harbour purano kella,All Ages,Riverside views,Average,Cloudy,"A peaceful riverside town where the Hooghly, Rupnarayan, and Damodar rivers meet.","Bus,Taxi,Ferry",22.17335,88.1982
+129,BAPS Shri Swaminarayan Mandir,All Ages,Lavish temple,Good,Clear,"Lavish temple with domes, spires & landscaped gardens, plus multiple statues of deities & gurus.","Bus,Txai",22.41489,88.28313
+130,Henry’s Island,All Ages,Beach views,Average,Haze,A secluded beach and nature retreat near Bakkhali.,"Bus,Taxi",21.5799,88.3014
+131,Mani Square,All Ages,Shooping Mall,Average,Haze,It is a prominent shopping mall located in Kolkata,"Bus,Taxi",22.57785,88.40105
+132,Shri RamChandra Mandir,All Ages,Religious Temple,Average,Clear,"Established as a testament to gratitude and faith, the temple holds a special significance for devotees","Bus,Taxi",22.5848,88.3615
+133,Howrah Railway Station,All Ages,Colonial architecture,Average,Clear,"One of India's busiest and oldest railway stations, known for its colonial architecture.","Bus,Taxi",22.5839,88.3434
+134,Vidyasagar Setu,All Ages,Cable-stayed bridge,Good,Cloudy,One of the longest cable-stayed bridges in India,"Bus,Taxi,Train",22.5574,88.3277
+135,Barisha Chandi Temple,All Ages,"Temple, Religious Site",Good,Clear,"This temple was founded by Sabarna Roy Chowdhury family. Every year ""Chandi Mela"" and Puja is organized in the month of December which is about 230 years old.","Bus,Taxi,Auto",22.4921,88.3096
+136,Nature park,All Ages,"Park, Lake, Recreational Area",Good,Cloudy,"A large park with a lake, gardens, and children's play areas, offering boating and other recreational activities.","Bus, Taxi, Auto-rickshaw",22.524,88.293
+137,Shri Jagannath Temple,All Ages,"Temple, Religious Site",Good,Clear,"A Hindu temple dedicated to Lord Jagannath, resembling the famous Jagannath Temple in Puri, Odisha.","Bus, Taxi, Auto-rickshaw",22.5421,88.3189
+138,Royal Calcutta Turf Club,18+ (for adult only),"Horse Racing, Sports, Social Club",Average,Clear,"A horse racing club with a racecourse, stands, and facilities for members and guests.","Bus, Taxi , Metro",22.5455,88.3324
+139,Kala Mandir,All Ages,"Auditorium, Cultural Center",Good,Clear,"A renowned auditorium in Kolkata that hosts various cultural events, performances, and exhibitions.","Bus, Taxi , Metro",22.5438,88.3596
+140,Fancy Market,All Ages,"Market, Shopping",Good,Cloudy,"A popular market in Kolkata known for its variety of goods, including clothing, electronics, and household items. Bargaining is common.","Bus, Taxi , Metro",22.55808,88.32244
+141,Entally Market,All Ages,"Market, Shopping",Average,Cloudy,"A bustling market in Kolkata known for its fresh produce, meat, fish, spices, and street food. It's a sensory experience with a lively atmosphere","Bus, Taxi , Metro",22.55898,88.36638
+142,Acropolis Mall,All Ages,"Shopping Mall, Entertainment, Dining",Average,Cloudy,"A modern shopping mall with a variety of retail stores, restaurants, a multiplex cinema, and entertainment options.","Bus, Taxi , Auto-rickshaw",22.515,88.393
+143,Eco Kunj,All Ages,"Park, Nature, Recreation, Entertainment",Average,Cloudy,"A large urban park with gardens, lakes, art installations, and recreational activities, promoting ecological awareness.","Bus, Taxi , Auto-rickshaw",22.5375,88.4493
+144,Kunjo Chhaya,All Ages,Picnic Spot,Average,Cloudy,"A park or recreational area, possibly with gardens or green spaces.","Bus, Taxi , Auto-rickshaw",22.544,88.4579
+145,Nazrul Tirtha,All Ages,"Cultural Center, Museum, Arts Complex",Good,Clear,"An arts complex dedicated to Kazi Nazrul Islam, featuring a museum, cinema, art galleries, and cultural spaces.","Bus, Taxi , Auto-rickshaw",22.5818,88.4482
+146,Lake Kalibari,All Ages,"Temple, Religious Site",Good,Clear,"A lakeside temple dedicated to Goddess Kali, known for its colorful festivals and serving food to devotees.","Bus, Taxi , Auto-rickshaw",22.5135,88.3551
+147,Shri Shri Karunamoyee Kali Mandir,All Ages,"Temple, Religious Site",Good,Clear,"Hindu temple dedicated to Goddess Kali, known for its peaceful atmosphere and religious significance.","Bus, Taxi , Auto-rickshaw",22.4858,88.3396
+148,Bhootnath Mandir,All Ages,"Temple, Religious Site",Good,Clear,"A unique Hindu temple dedicated to Lord Shiva, where cremation ashes are used in daily rituals.","Bus, Taxi , Auto-rickshaw",22.5944,88.3522
+149,Nataji Subhash Chandra Bose International Airport,All Ages,"Airport, Transportation Hub",Good,Clear,"A major international airport serving Kolkata and the surrounding region, with domestic and international flights.","Taxi, App-based Cabs (Uber, Ola), Airport Buses,",22.6536,88.4451
+150,Taj Bengal,All Ages,Luxury Hotel,Average,Clear,"High-end hotel with posh rooms & suites, 8 restaurants, an outdoor pool & a spa.","Taxi, Cab, Auto-rickshaw",22.5377,88.3338
+151,Dhono Dhanyo Auditorum,All Ages,"Auditorium, Performance Venue",Average,Clear,"A modern auditorium in Kolkata hosting various cultural events, performances, and shows.","Bus, Taxi, metro",22.5269,88.3314
+152,Doi Ghat,All Ages,"Ghat, Religious Site",Modarate,Clear,"A ghat on the banks of the Hooghly River in Kolkata, known for its religious significance and scenic views.","Bus, Taxi, Auto-rickshaw",22.5502,88.3238
+153,Aircraft Museum,All Ages,"Museum, Aviation, Educational",Modarate,Clear,"A museum displaying vintage aircraft and aviation artifacts, located within the Netaji Subhash Chandra Bose International Airport.","Taxi, App-based Cabs (Uber, Ola)",22.5771,88.4778
+154,Arts Acre,All Ages,"Art Center, Gallery, Workshop Space",Average,Cloudy,"An art center in Kolkata offering a space for exhibitions, workshops, and cultural events.","Bus, Taxi",22.55018,88.52133
+155,B Garden,All Ages,"Residential Area, Park",Average,Cloudy,"A residential area in Kolkata, possibly with a park or garden area.","Bus, Taxi , Auto-rickshaw",22.4526,88.292
+156,Ramakrishna Mission Swami Vivekananda's Ancestral House and Cultural Centre,,Vivekananda's Ancestral Home and Museum,Good,Clear,"The museum showcases his personal belongings, rare photographs, and exhibits on his life and teachings.","Bus,Taxi",22.75071,88.296
+157,Patuli Jheel Park,All Ages,"Park, Lake, Recreational Area",Good,Cloudy,"A park in Kolkata with a lake, gardens, and recreational facilities.","Bus, Taxi , Auto-rickshaw",22.4713,88.3895
+158,Golf Green Central Park,All Ages,"Park, Recreational Area",Good,Cloudy,"A park located in the Golf Green area of Kolkata, offering green spaces and recreational facilities.","Bus, Taxi , Auto-rickshaw",22.4936,88.3625
+159,SECTOR - V  ViewPoint,All Ages,"Observation Point, Urban Area",Good,Cloudy,"A designated viewpoint in Sector V, Salt Lake City, Kolkata, offering panoramic views of the surrounding cityscape.","Bus, Taxi ,Metro",22.571,88.4449
+160,Culture And Heritage of Bengal,All Ages,Anicent place,Good,Clear,"The cultural heritage of Bengal includes its architecture, festivals, food, and folk arts","Bus, Taxi",22.6027,88.4662
+161,Nature Park,Adults ,nature view,Average,Clear,"There are several places to see nature, including parks, picnic spots, and beaches.","Bus, Taxi",22.53672,88.2848
+162,Chandraketu's Fort,All Ages,"Archaeological Site, Historical Site",Good,Clear,"Ruins of an ancient fortified city, with archaeological significance.","Bus, Taxi , Auto-rickshaw",22.6797,88.6913
+163,Dhanyakuria Gayen Mansion,All Ages,"Heritage Building, Mansion",Good,Clear,"A historic mansion showcasing the architectural grandeur of a bygone era, located in rural Bengal.","Bus, Taxi , Auto-rickshaw",22.7034,88.7572
+164,Dhanyakuria Ballav Bari,All Ages,"Heritage Building, Temple Complex",Good,Clear,"A historic temple complex and mansion showcasing the architectural grandeur of a bygone era, located in rural Bengal.","Bus, Taxi , Auto-rickshaw",22.7034,88.7565
+165,Baropol Park Dhanyakuri,All Ages,"Park, Recreational Area",Average,Clear,"A park located in the rural area of Dhanyakuri, offering green spaces and recreational facilities.","Bus, Taxi , Auto-rickshaw",22.70975,88.76513
+166,Sabuj Sathi Krirangan (Howrah Indoor Stadium),All Ages,"Indoor Stadium, Sports Venue",Average,Clear,"An indoor stadium in Howrah, West Bengal, used for various sports and events.","Bus, Taxi , Auto-rickshaw, Train",22.5817,88.3068
+167,Behala Airport,All Ages,"Airport, Aviation Training",Average,Haze,A small airport in Kolkata primarily used for training purposes and non-commercial flights.,"Bus, Taxi , Auto-rickshaw",22.504,88.2943
+168,Metropolitan Durga Bari,All Ages,"Temple, Religious Site",Average,Haze,"A Hindu temple dedicated to Goddess Durga, known for its religious significance and celebrations, especially during Durga Puja.","Bus, Taxi , Auto-rickshaw",22.54,88.408
+169,Atmosphere,All Ages,floating bridge,Average,Haze,"It is a sky bridge, called Deya, is the world's first residential floating sculpture","Bus, Taxi , Auto-rickshaw",22.63792,88.45364
+170,Abanindranath Tagore's Garden House,All Ages,"Heritage House, Garden, Art, Museum (Possible)",Average,Haze,"The former residence and garden of the renowned artist Abanindranath Tagore, possibly preserved as a museum or heritage site.","Bus, Taxi , Auto-rickshaw",22.7051,88.3445
